@@ -29,7 +29,7 @@ You may also use Python IDLE directly instead of using above softwares.
 
 After setting up Python, we're ready to make our first program called 'Hello World'. Just type the following code,
 
-```
+```python
     print("Hello world!") 
 ```
 
