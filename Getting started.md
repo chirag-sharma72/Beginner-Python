@@ -12,7 +12,7 @@ Thonny IDE is easy to install as it doesn't require Python to be installed seper
 
 ### Installing Pycharm IDE
 
-1. Download Python IDE seperately (read **Installing Python IDE Seperately** above)
+1. Download Python IDE seperately (read **Installing Python IDE Seperately**)
 2. Download Pycharm IDE from [here](https://www.jetbrains.com/pycharm/download/download-thanks.html?platform=windows&code=PCC).
 3. After installation process, select **Create new project** and select **New > Python File**.
 
@@ -30,9 +30,7 @@ You may also use Python IDLE directly instead of using above softwares.
 After setting up Python, we're ready to make our first program called 'Hello World'. Just type the following code,
 
 '''
-
-<print("Hello world!")>
-
+    print("Hello world!")
 '''
 
 Congrats! You've successfully made your first Python program.
