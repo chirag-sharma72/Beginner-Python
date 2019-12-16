@@ -7,4 +7,33 @@ In 'Hello World' program, we used a `print()` function to print a statement. Now
 Here, our objective is to make a triangle. We'll keep the following in mind while writing the code (It solely depends on you 
 the type of triangle or the shape you want to make).
 
+![Triangle1](https://user-images.githubusercontent.com/47327461/70930730-e4258b80-205b-11ea-9f41-28231f87cbb3.png)
 
+Our first print statement will do the task of printing the vertex of the triangle.
+
+```python
+print("   /|")
+```
+Such print statements will be combined to print a triangle.
+
+```python
+print("   /|")
+print("  / |")
+print(" /  |")
+print("/___|")
+```
+
+This can also be acheived through a single 'print()' function.
+
+```python
+print("   /|\n"
+      "  / |\n"
+      " /  |\n"
+      "/___|\n")
+```
+
+**\n is a new line character used to break the output line. It's always written with double qoutes.
+
+#### Output
+
+![Triangle](https://user-images.githubusercontent.com/47327461/70932155-0a98f600-205f-11ea-8f41-fef654b05dd2.PNG)
