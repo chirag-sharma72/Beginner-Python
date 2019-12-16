@@ -7,4 +7,4 @@ In 'Hello World' program, we used a `print` function to print a statement. Now t
 Here, our objective is to make a triangle. We'll keep the following in mind while writing the code (It solely depends on you 
 the type of triangle or the shape you want to make).
 
-![Triangle](https://drive.google.com/open?id=1J4XhZlRbeffqDwxL0ZZ9E8qv8wWeKrr3)
+![](https://drive.google.com/open?id=1J4XhZlRbeffqDwxL0ZZ9E8qv8wWeKrr3)
