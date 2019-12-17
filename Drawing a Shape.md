@@ -19,23 +19,23 @@ print("   /|")
 Such print statements will be combined to print a triangle.
 
 ```python
-print("   /|")
-print("  / |")
-print(" /  |")
-print("/___|")
+print("|\    ")
+print("| \   ")
+print("|  \  ")
+print("|___\ ")
 ```
 
 This can also be acheived through a single 'print()' function.
 
 ```python
-print("   /|\n"
-      "  / |\n"
-      " /  |\n"
-      "/___|\n")
+print("|\    "
+      "| \   "
+      "|  \  "
+      "|___\ ")
 ```
 
 **\n is a new line character used to break the output line i.e. print a new line. It's always written with double qoutes.**
 
 #### Output
 
-![Triangle](https://user-images.githubusercontent.com/47327461/70932155-0a98f600-205f-11ea-8f41-fef654b05dd2.PNG)
+
