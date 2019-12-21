@@ -3,7 +3,7 @@ Here's a Python program to print a little story using 'print()' function.
 ```python
 print("There was a man named Saurabh who was 30 years old")
 print("He liked his name Saurabh")
-print(""But hated to be 30 years old")
+print("But hated to be 30 years old")
 ```
 
 Suppose, we wanted to change the name and age of the person. We would have to go change the required data wherever it appears. It's where the importance of variables arises. A variable is a container which can store a particular data. If we change the data in a variable, data changes wherever that variable occurs reducing unnecessay hard work.
@@ -44,7 +44,7 @@ a = 1.4998
 ```python
 a = True
 ```
-> There's a great difference between 'a = 10' and 'a = "10" '. While the former is an integer, the latter is a string. Mathematical operations can't be performed on a string.
+> There's a great difference between `a = 10` and `a = "10"`. While the former is an integer, the latter is a string. Mathematical operations can't be performed on a string.
 
 If ypu recall our first program, to print a string, we wrote the folowing code.
 
@@ -66,8 +66,11 @@ print(string)
 Hello World!
 ```
 
+If we want to use a string along with a variable, we may do as in the following program.
+
 ```python
 # A python program to show concepts of variables
+
 color = "Red"
 print("My favourite color is " + color)
 ```
@@ -78,7 +81,7 @@ print("My favourite color is " + color)
 My favourite color is Red
 ```
 #### Explanation-
-In the above program, string 'color' has been concatenated with another string ' "My favourite color" '. Concatenation of string is combining of two or more strings with each other
+In the above program, string 'color' has been concatenated with another string ' "My favourite color" '. Concatenation of string is combining of two or more strings with each other. To read more about concatination of strings, click [here](https://en.wikipedia.org/wiki/Concatenation).
 
 To accomplish this task, we'll create two variables, namely character_name and character_age.
 
