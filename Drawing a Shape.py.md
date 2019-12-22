@@ -14,8 +14,9 @@ the type of triangle or the shape you want to make).
 Our first print statement will do the task of printing the vertex of the triangle.
 
 ```python
-print("   /|")
+print("|\    ")
 ```
+
 Such print statements will be combined to print a triangle.
 
 ```python
@@ -39,8 +40,8 @@ print("|\    "
 #### Output
 
 ```
-  |\    
-  | \   
-  |  \  
-  |___\
+ |\    
+ | \   
+ |  \  
+ |___\
 ```
