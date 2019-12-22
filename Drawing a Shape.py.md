@@ -34,9 +34,13 @@ print("|\    "
       "|___\ ")
 ```
 
-**\n is a new line character used to break the output line i.e. print a new line. It's always written with double qoutes.**
+> **\n is a new line character used to break the output line i.e. print a new line. It's always written with double qoutes.**
 
 #### Output
 
-![BTriangle](https://user-images.githubusercontent.com/47327461/71019414-46e05b00-2120-11ea-9352-94a91d53419a.PNG)
-
+```
+  |\    
+  | \   
+  |  \  
+  |___\
+```
