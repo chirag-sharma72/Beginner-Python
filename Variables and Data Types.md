@@ -8,7 +8,7 @@ print("But hated to be 30 years old")
 
 Suppose, we wanted to change the name and age of the person. We would have to go change the required data wherever it appears. It's where the importance of variables arises. A variable is a container which can store a particular data. If we change the data in a variable, data changes wherever that variable occurs reducing unnecessay hard work.
 
-***Syntax-***
+**Syntax-**
 
 ```python
 variable_name = data
@@ -20,7 +20,7 @@ Now, the type of data we store in a variable specifies the data type of a variab
 ```python
 a = "Python is a programming language"
 ```
-> A string is always declared with double quotes.
+> **A string is always declared with double quotes.**
 
 2) Integer(int) - An integer number
 
@@ -44,9 +44,9 @@ a = 1.4998
 ```python
 a = True
 ```
-> There's a great difference between `a = 10` and `a = "10"`. While the former is an integer, the latter is a string. Mathematical operations can't be performed on a string.
+> **There's a great difference between `a = 10` and `a = "10"`. While the former is an integer, the latter is a string. Mathematical operations can't be performed on a string.**
 
-If ypu recall our first program, to print a string, we wrote the folowing code.
+If you recall our first program, to print a string, we wrote the following code.
 
 ```python
 print("Hello World!")
@@ -55,7 +55,6 @@ What we did here is printing a string. Another way to accomplish this is by usin
 
 ```python
 # A program to print 'Hello world!'
-
 string  = "Hello World!"
 print(string)
 ```
@@ -86,7 +85,7 @@ My favourite number is 7
 #### Explanation-
 In the first print statement, string 'color' has been concatenated with another string ' "My favourite color" '. In the second print statement, we were trying to concatenate a string with an integer, which will give an error due to obvious reasons. To do so, we'll have to convert the integer into a string as 'str(var_name).
 
-> Concatenation of string is combining of two or more strings with each other. To read more about concatenation of strings, click [here](https://en.wikipedia.org/wiki/Concatenation).
+> **Concatenation of string is combining of two or more strings with each other. To read more about concatenation of strings, click [here](https://en.wikipedia.org/wiki/Concatenation).**
 
 Coming to back to our story, using the above concepts we can change our code as follows.
 
@@ -95,11 +94,11 @@ name = "Saurabh"
 age = "30"
 print("There was a man named" + name + " who was " + age + " years old")
 print("He liked his name " + name)
-print(""But hated to be " + age + " years old")
+print("But hated to be " + age + " years old")
 ```
 #### Output-
 
-```python
+```
 There was a man named Saurabh who was 30 years old
 He liked his name Saurabh
 But hated to be 30 years old
