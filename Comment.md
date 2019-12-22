@@ -1,6 +1,6 @@
 A comment is a statement which is not executed by the interpretor. It's simply avoided by the interpretor. 
 
-## Single-Line Commment-
+### Single-Line Comment-
 A single-line comment can be implemeted by using a `#` (hashtag) symbol.
 
 ```python
@@ -9,7 +9,7 @@ A single-line comment can be implemeted by using a `#` (hashtag) symbol.
 
 ```
 
-## Multi-Line Commment-
+### Multi-Line Comment-
 A multi-line comment can be implemeted by using a `'''  '''` symbol.
 
 ```python
@@ -27,7 +27,7 @@ print(str(x))  # printing 'x' as a string rather than an integer
 ```
 
 
-## Applications of Comments-
+### Applications of Comments-
 
 1) Adding what the program is about
 2) Adding explanatory note of a source code
