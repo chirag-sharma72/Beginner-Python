@@ -70,29 +70,37 @@ If we want to use a string along with a variable, we may do as in the following 
 
 ```python
 # A python program to show concepts of variables
-
 color = "Red"
-print("My favourite color is " + color)
+number = 7
+print("My favourite color is " + color)  # concatenating two strings
+print("My favourite number is " + str(number))  # converting an integer into a string to concatenate
+
 ```
 
 #### Output-
 
 ```
 My favourite color is Red
+My favourite number is 7
 ```
 #### Explanation-
-In the above program, string 'color' has been concatenated with another string ' "My favourite color" '. Concatenation of string is combining of two or more strings with each other. To read more about concatination of strings, click [here](https://en.wikipedia.org/wiki/Concatenation).
+In the first print statement, string 'color' has been concatenated with another string ' "My favourite color" '. In the second print statement, we were trying to concatenate a string with an integer, which will give an error due to obvious reasons. To do so, we'll have to convert the integer into a string as 'str(var_name).
 
-To accomplish this task, we'll create two variables, namely character_name and character_age.
+> Concatenation of string is combining of two or more strings with each other. To read more about concatenation of strings, click [here](https://en.wikipedia.org/wiki/Concatenation).
 
- > A variable name can be whatever we want, but for a code to be readable, it's preferred to give it a logical name.
- 
- > A variable can't contain spaces in between. Therefore, for a multi-word variable name, underscore (_) is used.                                                                                             ***Example-*** 'var_name'
+Coming to back to our story, using the above concepts we can change our code as follows.
 
 ```python
 name = "Saurabh"
 age = "30"
-print("There was a man named" +  who was 30 years old")
-print("He liked his name Saurabh")
-print(""But hated to be 30 years old")
+print("There was a man named" + name + " who was " + age + " years old")
+print("He liked his name " + name)
+print(""But hated to be " + age + " years old")
+```
+#### Output-
+
+```python
+There was a man named Saurabh who was 30 years old
+He liked his name Saurabh
+But hated to be 30 years old
 ```
