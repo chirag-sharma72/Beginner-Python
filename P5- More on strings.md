@@ -63,8 +63,8 @@ sentence = "This is a sentence"
 print(sentence[5:7])  # the final index is one more than to be printed
 
 # accessing last word from the sentence
-print(sentence[10:])  # will iterate till the the end
+print(sentence[10:])  # will iterate till the end
 
 # accessing last word from the sentence
-print()sentence[:4]  # iterating from starting to index 4
+print(sentence[:4])  # iterating from starting to index 4
 ```
