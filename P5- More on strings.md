@@ -12,7 +12,7 @@ name = "Ram"
 print("My name is " + name + ".")
 ```
 
-### Output
+#### Output
 
 ```
 My name is Rohit.
@@ -31,23 +31,40 @@ It's done by writing the string name along with square brackets with the index. 
 # A python program to demonstrate how to access an element
 
 qoute = "A friend in need is a friend indeed."
-print(qoute[0])  # accessing the first element
-print(qoute[5])  # accessing the sixth element
-print(qoute[35])  # accessing the last element
-print(qoute[-1])  # accessing the last element
-print(qoute[-36]  # accessing the first element
+print("First element: " + qoute[0])
+print("Sixth element: " + qoute[5])
+print("Last element: " + qoute[35])
+print("Last element: " + qoute[-1])
+print("First element: " + qoute[-36])
 ```
 
-### Output
+#### Output
 
 ```
-A
-e
-.
-.
-A
+First element: A
+Sixth element: e
+Last element: .
+Last element:  .
+First element: A
 ```
 
-### Accessing a Substring from a String
+## Accessing a Word from a String
 
-A substring is the fundamental part of a string.
+Instead of a single character, we can also access a part of a string. We can do so by specifying initial and final index of the part of the string or the substring we want to access using a colon (:). It can be considered to be iterating a part of the string.
+
+> A substring is the fundamental part of a string. In simple words, it's a subset of a string. It may be a single character, a part of a word or a word itself.
+
+```python
+# A Python program to demonstrate how to access a word from a string
+
+sentence = "This is a sentence"
+
+# accessing second word from the sentence
+print(sentence[5:7])  # the final index is one more than to be printed
+
+# accessing last word from the sentence
+print(sentence[10:])  # will iterate till the the end
+
+# accessing last word from the sentence
+print()sentence[:4]  # iterating from starting to index 4
+```
