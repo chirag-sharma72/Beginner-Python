@@ -51,7 +51,7 @@ If you recall our first program, to print a string, we wrote the following code.
 ```python
 print("Hello World!")
 ```
-What we did here is printing a string. Another way to accomplish this is by using a variable. A variable can be printed as 'print(variable_name)' which prints the value of the variable.
+What we did here is printing a string. Another way to accomplish this is by using a variable. A variable can be printed as `print(variable_name)` which prints the value of the variable.
 
 ```python
 # A program to print 'Hello world!'
