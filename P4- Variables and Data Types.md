@@ -33,7 +33,7 @@ a = 10
 ```python
 a = 1.5
 ```
-4) Double Float(double) - A decimal number with more [significant digits](https://en.wikipedia.org/wiki/Significant_figures)
+4) Double Float(double) - A decimal number with more [significant digits](https://en.wikipedia.org/wiki/Significant_figures).
 
 ```python
 a = 1.4998
