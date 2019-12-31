@@ -73,8 +73,9 @@ print(sentence[:4])  # iterating from the beginning to index 4
 A string can be reversed by adding another colon in the square brackets and specifying the third subpart as '-1'. Using the same subpart, a string (or a substring) can be printed by skipping in the multiples of 2, 3 and so on.
 
 ```python
-# A python program to demonstrate reversing and skipping i a string
-fav_dessert = "My favourite dessert is ice-cream."
+# A python program to demonstrate reversing and skipping in a string
+
+fav_dessert = "I love ice-cream."
 
 # reversing the string
 fav_dessert[::-1]
@@ -86,5 +87,5 @@ fav_dessert[4:13:-1]
 fav_dessert = [::2]  # skipping alternatively
 
 # skipping and reversing
-fav_dessert = [14:21:-3]  # skipping reversibely in multiples of 3
+fav_dessert = [14:21:-3]  # skipping reversively in multiples of 3
 ```
