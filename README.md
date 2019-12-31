@@ -14,4 +14,6 @@ This lesson mainly aims to introduce more of python through a subtle approach us
 This lesson explains the concepts of commenting, single-line and multi-line commenting and how to implement the same in Python. It also explains the importance of commenting for a programmer and its applications.
 
 ## Lesson 4
-This lesson covers the concepts of variable and data types.
+This lesson covers the concepts of variables and data types. It also discusses about basic concepts of strings and problems faced by a newbie.
+
+## Lesson 5
