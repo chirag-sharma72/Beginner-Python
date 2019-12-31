@@ -50,7 +50,7 @@ First element: A
 
 ## Accessing a Word from a String
 
-Instead of a single character, we can also access a part of a string. We can do so by specifying initial and final index of the part of the string or the substring we want to access using a colon (:). It can be considered to be iterating a part of the string.
+Instead of a single character, we can also access a part of a string. We can do so by specifying initial and final indices of the part of the string or the substring we want to access using a colon (:). It can be considered as iteration of a part of a string.
 
 > A substring is the fundamental part of a string. In simple words, it's a subset of a string. It may be a single character, a part of a word or a word itself.
 
@@ -63,8 +63,28 @@ sentence = "This is a sentence"
 print(sentence[5:7])  # the final index is one more than to be printed
 
 # accessing last word from the sentence
-print(sentence[10:])  # will iterate till the end
+print(sentence[10:])  # iterating from index 10 till the end
 
-# accessing last word from the sentence
-print(sentence[:4])  # iterating from starting to index 4
+# accessing first word from the sentence
+print(sentence[:4])  # iterating from the beginning to index 4
+```
+
+## Reversing and Skipping through a String
+A string can be reversed by adding another colon in the square brackets and specifying the third subpart as '-1'. Using the same subpart, a string (or a substring) can be printed by skipping in the multiples of 2, 3 and so on.
+
+```python
+# A python program to demonstrate reversing and skipping i a string
+fav_dessert = "My favourite dessert is ice-cream."
+
+# reversing the string
+fav_dessert[::-1]
+
+# reversing a substring
+fav_dessert[4:13:-1]
+
+# skipping the string
+fav_dessert = [::2]  # skipping alternatively
+
+# skipping and reversing
+fav_dessert = [14:21:-3]  # skipping reversibely in multiples of 3
 ```
