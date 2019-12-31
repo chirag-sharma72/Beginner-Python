@@ -103,3 +103,5 @@ There was a man named Saurabh who was 30 years old
 He liked his name Saurabh
 But hated to be 30 years old
 ```
+ 
+ Now, if we want to edit the name in the story, we can do that by just editing the name in the variable `name`.
