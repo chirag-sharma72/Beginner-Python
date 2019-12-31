@@ -83,7 +83,7 @@ My favourite color is Red
 My favourite number is 7
 ```
 #### Explanation-
-In the first print statement, string 'color' has been concatenated with another string ' "My favourite color" '. In the second print statement, we were trying to concatenate a string with an integer, which will give an error due to obvious reasons. To do so, we'll have to convert the integer into a string as 'str(var_name).
+In the first print statement, string 'color' has been concatenated with another string ' "My favourite color" '. In the second print statement, we were trying to concatenate a string with an integer, which is not possible and will produce an error. To remove such an error, we'll have to convert the integer into a string as 'str(var_name).
 
 > **Concatenation of string is combining of two or more strings with each other. To read more about concatenation of strings, click [here](https://en.wikipedia.org/wiki/Concatenation).**
 
