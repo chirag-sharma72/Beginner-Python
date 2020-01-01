@@ -87,7 +87,7 @@ print(fav_dessert = [::2])  # stepping with steps of 2 (printing half of the let
 print(fav_dessert = [21:14:-3])  # stepping reversively in steps of 3
 ```
 
-### Output
+#### Output
 
 ```
 .maerc-eci evol I
