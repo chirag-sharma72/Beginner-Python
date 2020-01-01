@@ -48,7 +48,7 @@ Last element:  .
 First element: A
 ```
 
-## Accessing a Word from a String
+## Accessing a Word in a String
 
 Instead of a single character, we can also access a part of a string. We can do so by specifying initial and final indices of the part of the string or the substring we want to access using a colon (:). It can be considered as iteration of a part of a string.
 
@@ -69,23 +69,29 @@ print(sentence[10:])  # iterating from index 10 till the end
 print(sentence[:4])  # iterating from the beginning to index 4
 ```
 
-## Reversing and Skipping through a String
-A string can be reversed by adding another colon in the square brackets and specifying the third subpart as '-1'. Using the same subpart, a string (or a substring) can be printed by skipping in the multiples of 2, 3 and so on.
+## Reversing and Stepping in a String
+A string can be reversed by a method called stepping by adding another colon after specifying initial and final indices. In stepping, a number is specified after the colon which determines the number (and direction) of steps.
 
 ```python
-# A python program to demonstrate reversing and skipping in a string
+# A python program to demonstrate reversing and stepping in a string
 
 fav_dessert = "I love ice-cream."
 
 # reversing the string
-fav_dessert[::-1]
+print(fav_dessert[::-1])  # reverse stepping
 
-# reversing a substring
-fav_dessert[4:13:-1]
+# stepping in the string
+print(fav_dessert = [::2])  # stepping with steps of 2 (printing half of the letters)
 
-# skipping the string
-fav_dessert = [::2]  # skipping alternatively
-
-# skipping and reversing
-fav_dessert = [14:21:-3]  # skipping reversively in multiples of 3
+# stepping and reversing
+print(fav_dessert = [21:14:-3])  # stepping reversively in steps of 3
 ```
+
+### Output
+
+```
+.maerc-eci evol I
+Ilv c-ra.
+.e-iv 
+```
+
