@@ -1,4 +1,4 @@
-Welcome to the python course for beginners. If you're new to programming, this is the course for you. If you're accustomed to programming and want to learn Python, this course will help you learn the language in a very realistic way through examples. You will also find various sources to practise programming.
+Welcome to the python course for beginners. If you're a noob, this is the course for you. If you're accustomed to programming and want to learn Python, this course will help you learn the language in a very realistic way through examples. You will also find various sources to practise programming.
 
 Below, you'll find a course plan specifying everything you're going to learn in this course. Feel free to contact for any doubts you face.
 
