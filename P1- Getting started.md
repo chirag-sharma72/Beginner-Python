@@ -23,6 +23,7 @@ Thonny IDE is easy to install as it doesn't require Python to be installed seper
 1. Download Python IDE seperately (read **Installing Python IDE Seperately**)
 2. Download Pycharm IDE from [here](https://www.jetbrains.com/pycharm/download/download-thanks.html?platform=windows&code=PCC).
 3. After installation process, select **Create new project** and select **New > Python File**.
+4. Save the file with the extension **.py**.
 
 ### Installing Python IDE Seperately
 
@@ -32,6 +33,8 @@ You may also use Python IDLE directly instead of using above softwares.
 2. Run the installer to install the software. During installation process, check **Add Python to environment variables** to run Python
    from anywhere.
 3. Once installation is complete, you can run Python.
+4. Select **New > Python File** and save the file with the extension **.py**.
+
 
 ### Hello World Program
 
