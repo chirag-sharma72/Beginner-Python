@@ -1,4 +1,10 @@
 A comment is a statement which is not executed by the interpretor. It's simply avoided by the interpretor. 
+## Contents
+[Single-Line Comment]
+
+[Multi-Line Comment]
+
+[Applications of Comments]
 
 ### Single-Line Comment-
 A single-line comment can be implemeted by using a `#` (hashtag) symbol.
