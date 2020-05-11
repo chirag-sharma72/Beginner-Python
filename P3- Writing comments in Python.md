@@ -1,10 +1,10 @@
 A comment is a statement which is not executed by the interpretor. It's simply avoided by the interpretor. 
 ## Contents
-[Single-Line Comment]
+[Single-Line Comment](https://github.com/sharmachirag123/Beginner-Python/blob/Triangle-edit/P3-%20Writing%20comments%20in%20Python.md#single-line-comment-)
 
-[Multi-Line Comment]
+[Multi-Line Comment](https://github.com/sharmachirag123/Beginner-Python/blob/Triangle-edit/P3-%20Writing%20comments%20in%20Python.md#multi-line-comment-)
 
-[Applications of Comments]
+[Applications of Comments](https://github.com/sharmachirag123/Beginner-Python/blob/Triangle-edit/P3-%20Writing%20comments%20in%20Python.md#applications-of-comments-)
 
 ### Single-Line Comment-
 A single-line comment can be implemeted by using a `#` (hashtag) symbol.
