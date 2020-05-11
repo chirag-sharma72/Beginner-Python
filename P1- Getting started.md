@@ -5,7 +5,10 @@ Linux, Mac etc. Though, python comes preinstalled on Linux and MacOS, it's prefe
 
 [Installing Pycharm IDE](https://github.com/sharmachirag123/Beginner-Python/blob/Triangle-edit/P1-%20Getting%20started.md#installing-pycharm-ide)
 
-[Installing Python IDE Seperately]()
+[Installing Python IDE Seperately](https://github.com/sharmachirag123/Beginner-Python/blob/Triangle-edit/P1-%20Getting%20started.md#installing-python-ide-seperately)
+
+[Hello World Program]()
+
 ### Installing Thonny IDE
 
 Thonny IDE is easy to install as it doesn't require Python to be installed seperately.
