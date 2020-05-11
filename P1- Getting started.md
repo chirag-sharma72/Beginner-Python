@@ -7,7 +7,7 @@ Linux, Mac etc. Though, python comes preinstalled on Linux and MacOS, it's prefe
 
 [Installing Python IDE Seperately](https://github.com/sharmachirag123/Beginner-Python/blob/Triangle-edit/P1-%20Getting%20started.md#installing-python-ide-seperately)
 
-[Hello World Program]()
+[Hello World Program](https://github.com/sharmachirag123/Beginner-Python/blob/Triangle-edit/P1-%20Getting%20started.md#hello-world-program)
 
 ### Installing Thonny IDE
 
