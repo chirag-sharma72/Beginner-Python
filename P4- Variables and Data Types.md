@@ -87,7 +87,7 @@ In the first print statement, string 'color' has been concatenated with another 
 
 > **Concatenation of string is combining of two or more strings with each other. To read more about concatenation of strings, click [here](https://en.wikipedia.org/wiki/Concatenation).**
 
-Coming to back to our story, using the above concepts we can change our code as follows.
+Coming back to our story, using the above concepts we can change our code as follows.
 
 ```python
 name = "Saurabh"
