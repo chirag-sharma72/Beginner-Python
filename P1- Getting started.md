@@ -1,7 +1,9 @@
 Python is an easy-to-use interpreter based language. It's a platform independent language which runs on multiple platforms like Windows,
 Linux, Mac etc. Though, python comes preinstalled on Linux and MacOS, it's preferred to check and install the latest version.
 ## Contents
-
+[Installing Thonny IDE](https://github.com/sharmachirag123/Beginner-Python/blob/Triangle-edit/P1-%20Getting%20started.md#installing-thonny-ide)
+[Installing Pycharm IDE]
+[Installing Python IDE Seperately]
 ### Installing Thonny IDE
 
 Thonny IDE is easy to install as it doesn't require Python to be installed seperately.
