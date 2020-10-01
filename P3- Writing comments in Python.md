@@ -39,3 +39,5 @@ print(str(x))  # printing 'x' as a string rather than an integer
 2) Adding explanatory note of a source code
 3) Comment a part of the code during testing
 4) Adding a plan regarding the design of a source code
+5) Other programmer or user get help to understand the code
+6) Able to comment exact function of the code.
