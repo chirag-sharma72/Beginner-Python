@@ -13,6 +13,8 @@ Suppose, we wanted to change the name and age of the person. We would have to go
 ```python
 variable_name = data
 ```
+Basically veriable is container where we can store diffrernt types of data . 
+That data can be integer, float, string, character... etc
 Now, the type of data we store in a variable specifies the data type of a variable. A data type of a variable is the type of data stored by a variable. Some most used data types are-
 
 1) String(str) - A string of characters
