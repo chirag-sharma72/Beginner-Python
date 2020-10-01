@@ -17,3 +17,4 @@ This lesson explains the concepts of commenting, single-line and multi-line comm
 This lesson covers the concepts of variables and data types. It also discusses about basic concepts of strings and problems faced by a newbie.
 
 ## Lesson 5
+This lesson is  about strings in python . It contain basic examples. Accessing element , accessing words in string or indexing in strings and reversing string
