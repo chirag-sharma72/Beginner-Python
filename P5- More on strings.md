@@ -33,7 +33,6 @@ It's done by writing the string name along with square brackets with the index. 
 qoute = "A friend in need is a friend indeed."
 print("First element: " + qoute[0])
 print("Sixth element: " + qoute[5])
-print("Last element: " + qoute[35])
 print("Last element: " + qoute[-1])
 print("First element: " + qoute[-36])
 ```
